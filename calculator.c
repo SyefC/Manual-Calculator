@@ -135,6 +135,8 @@ char run[10];
     }
 }
 int main() {
+int b = 0;
+ b = 1;
     char r[10];
        printf("\033[0;34m FOLLOWED BY THE RULES OF C,MATHEMATICS AND PROGRAMMING\033[0m\n"); //RULES!!!!!!!!!
        printf("\033[1;31mDividing By 0 and 0 will cause program to crash Because of Undefined\033[0m\n"); // Red text
