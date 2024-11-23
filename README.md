@@ -20,6 +20,13 @@ STEP 3:
 Once file is running.
 ---------
 Start !!!CALCULATING!!!
+------------------------------------------------
+THIS FILE ONLY WORKS ON WINDOWS ONLY
+(LINUX IS IN WORKING...)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Programming language: C
+Compiler: GCC (MINGW)
+-
 -----------------------------------------------------------------------------------
 Announce: If Theres Any Bug or Errors Please Info Me On One Of my Videos Or Shorts In Youtube.
 -----------------------------------------------------------------------------------
