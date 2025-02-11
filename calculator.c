@@ -7,7 +7,7 @@ if(b == 1) {
     b = 0;
     printf("exiting...\n");
     for(int a = 0; a < 1000; a++) { //Loops
-        printf(" ");//blank
+        printf(" ");//blank (or space)
     }
     printf("\033[0;32mexited successfully\033[0m\n"); //Green Text
     return 0;
